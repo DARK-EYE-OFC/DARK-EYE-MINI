@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/2005101/followers"><img title="Followers" src="https://img.shields.io/github/followers/2005101?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/DARK-EYE-OFC/followers"><img title="Followers" src="https://img.shields.io/github/followers/2005101?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://github.com/2005101/BLAQ-STAR-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/2005101/BLAQ-STAR-?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
   <a href="https://github.com/2005101/BLAQ-STAR-/network/members"><img title="Forks" src="https://img.shields.io/github/forks/2005101/BLAQ-STAR-?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://github.com/2005101/BLAQ-STAR-/"><img title="Size" src="https://img.shields.io/github/repo-size/2005101/BLAQ-STAR-?style=for-the-badge&color=FFFFFF&logo=docusign&logoColor=white"></a>
